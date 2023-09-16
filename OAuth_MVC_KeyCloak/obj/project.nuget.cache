@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOQlYqqGVKa86IEvLuxHkqRImxdiZXEyeu0ftLo24lDDd16/zA5CXgmiVi9446pfAwpLxp8GlqVmHxUB2cUcUg==",
+  "success": true,
+  "projectFilePath": "C:\\School Work\\OAuth_MVC_KeyCloak\\OAuth_MVC_KeyCloak\\OAuth_MVC_KeyCloak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.10\\microsoft.aspnetcore.authentication.openidconnect.7.0.10.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
